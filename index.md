@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome To User Engagement Analytics
 
-I'm glad you are here. I plan to talk about ...
+Here you will be able to visualize your class session engagement
