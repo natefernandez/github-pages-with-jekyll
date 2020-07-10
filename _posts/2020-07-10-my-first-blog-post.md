@@ -1,1 +1,4 @@
-This is my first blog psot!
+---
+title: "This is my first Blog Post!"
+date: 2020-07-10
+---
